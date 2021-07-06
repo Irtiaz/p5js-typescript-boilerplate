@@ -45,6 +45,8 @@ export default function drawRect(
 }
 ```
 
+To add any asset simply put it in the `dist` folder
+
 ---
 
 To run the developent server run

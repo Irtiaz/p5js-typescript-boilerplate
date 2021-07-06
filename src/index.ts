@@ -7,7 +7,6 @@ const Sketch = (p5: p5) => {
 
   p5.draw = () => {
     p5.background(51);
-    p5.fill(0, 0, 255);
   };
 };
 
